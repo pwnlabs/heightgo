@@ -1,4 +1,4 @@
-# Height.go 🚀
+# Trello2Height 🚀
 
 Height.go is integration tool for [height.app](https://height.app).
 
